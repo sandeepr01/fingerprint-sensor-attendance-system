@@ -24,11 +24,9 @@ Here we propose a smart fingerprint based biometric attendance system that works
 ### Software Specifications 
 4. Arduino IDE Software 
 5. Web server
-
+       
 ### video link - 
-       <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+       
 
 ### Create Your Own project then Use these instruction 
 In this code Change your wifi name and password.

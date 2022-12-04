@@ -1,11 +1,4 @@
-/*
-    Topic : colourful bird nest 
 
-    Created on: 16.07.2021
-
-    Author : banna_313
-
-*/
 /*
  * Finger - 
  * green - 3v
